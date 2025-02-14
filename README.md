@@ -4,14 +4,14 @@
 
 I’m a third-year undergraduate student at **Keshav Memorial Institute of Technology**, currently exploring and building in the fields of **Artificial Intelligence** and **Machine Learning**. I’m deeply passionate about learning new technologies and driven by my enthusiasm for **entrepreneurship**. I also enjoy organizing and managing events, both technical and creative!
 
-## 🌱 Current Focus
+##  Current Focus
 
 - **Artificial Intelligence and Machine Learning**: Constantly learning and applying ML/AI in various projects. I believe in the potential of AI to create meaningful impact!
 - **Entrepreneurship**: Exploring the startup ecosystem and always curious about what it takes to build impactful products.
 
 ![AI and ML](https://placehold.co/150/ff6347/ffffff?text=AI+%26+ML&font=roboto) ![Entrepreneurship](https://placehold.co/150/32cd32/ffffff?text=Entrepreneurship&font=roboto)
 
-## 👀 Skills & Technologies
+##  Skills & Technologies
 
 I have a strong foundation in programming languages, web development, and various tools used in the tech industry. Here are some of the skills and tools I work with:
 
@@ -22,7 +22,7 @@ I have a strong foundation in programming languages, web development, and variou
 
 ![Languages](https://placehold.co/150/4682b4/ffffff?text=Languages&font=roboto) ![Web Development](https://placehold.co/150/ffa500/ffffff?text=Web+Development&font=roboto) ![Databases](https://placehold.co/150/8a2be2/ffffff?text=Databases&font=roboto)
 
-## 🎥 Content Creation
+##  Content Creation
 
 Alongside my technical work, I’m actively involved in creating content focused on **Machine Learning**, **AI trends**, and **entrepreneurship**. I believe in sharing knowledge and connecting with like-minded people through content. 
 
@@ -31,11 +31,11 @@ Alongside my technical work, I’m actively involved in creating content focused
 
 ![Content Creation](https://placehold.co/150/ff69b4/ffffff?text=Content+Creation&font=roboto) ![Machine Learning](https://placehold.co/150/20b2aa/ffffff?text=Machine+Learning&font=roboto) ![AI Trends](https://placehold.co/150/ff4500/ffffff?text=AI+Trends&font=roboto)
 
-## 💞️ Collaboration & Projects
+##  Collaboration & Projects
 
 I’m always open to collaborating on AI/ML projects and other tech-driven ideas that can help me grow my skills. If you have an interesting project or an idea in mind, feel free to reach out!
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **Email**: machakavya333@gmail.com
 - **LinkedIn**: [Kavya Macha](https://www.linkedin.com/in/kavya-macha)
